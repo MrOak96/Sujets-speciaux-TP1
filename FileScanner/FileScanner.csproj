@@ -8,7 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
+    <Resource Include="Images\Folder.png" />
+    <Resource Include="Images\File.png" />
   </ItemGroup>
-
+  
 </Project>
